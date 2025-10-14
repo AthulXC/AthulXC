@@ -3,7 +3,7 @@
 
 I am skilled in several programming languages, including C, C++, C#, Python, Java, Kotlin, JavaScript, PHP, HTML, and CSS. I'm a self-taught learner, constantly pushing myself to improve and expand my knowledge.
 
-I'm from Kollam, Kerala, India, and I aim to continue growing as a developer, taking on new challenges and building innovative projects.</p>
+I'm from Kollam, Kerala, India, and I aim to continue growing as a developer, taking on new challenges and building innovative projects. study At SNDPY HSS NEERAVIL</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
